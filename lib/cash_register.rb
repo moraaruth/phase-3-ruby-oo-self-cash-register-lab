@@ -1,4 +1,4 @@
-require 'pry'
+
 #attr_accessor
 #float and integer
 
